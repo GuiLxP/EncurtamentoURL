@@ -1,0 +1,24 @@
+POST http://localhost:3333/api/links
+Content-Type: application/json
+
+{
+  "code": "linkedin",
+  "url": "https://www.linkedin.com/in/guilherme-matheus-pantoja-7694a6208/"
+}
+
+###
+POST http://localhost:3333/api/links
+Content-Type: application/json
+
+{
+  "code": "github",
+  "url": "https://github.com/GuiLxP"
+}
+
+###
+GET http://localhost:3333/api/links
+
+###
+GET http://localhost:3333/github
+
+###
