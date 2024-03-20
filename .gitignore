@@ -37,6 +37,5 @@ docker-compose.yml
 
 # Diretório de volumes do Docker Compose (se aplicável)
 .docker/
-
 # Arquivos gerados pelo Docker (se aplicável)
 .dockerignore.*
